@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: people
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: faculty
+    permalink: /faculty/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: faculty
+    permalink: /faculty/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: faculty
+    permalink: /faculty/
 ---

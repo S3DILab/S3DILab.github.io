@@ -1,7 +1,7 @@
 ---
-layout: profiles
-permalink: /people/
-title: people
+layout: none
+permalink: /faculty/
+title: faculty
 description: members of the lab or group
 nav: true
 nav_order: 7
