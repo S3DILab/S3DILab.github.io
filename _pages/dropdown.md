@@ -8,9 +8,9 @@ children:
   - title: faculty
     permalink: /faculty/
   - title: divider
-  - title: faculty
+  - title: ph.D
     permalink: /faculty/
   - title: divider
-  - title: faculty
+  - title: Master
     permalink: /faculty/
 ---
