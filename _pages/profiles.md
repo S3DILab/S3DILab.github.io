@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: page
 permalink: /faculty/
 title: faculty
 description: members of the lab or group
